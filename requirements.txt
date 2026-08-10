@@ -1,7 +1,7 @@
-streamlit==1.37.1
-numpy==1.26.4
+streamlit
+numpy
 opencv-python-headless==4.10.0.84
-Pillow==10.4.0
-scikit-learn==1.5.1
-gdown==5.2.0
-tensorflow-cpu==2.16.1
+pillow
+scikit-learn
+gdown
+tensorflow==2.16.1
